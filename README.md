@@ -47,7 +47,7 @@ Using PH as a differentiable loss/constrain/penalty/regularizer
 Differentiable topological representation
 
 1. [NeurIPS 2017]**Deep Learning with Topological Signatures** [paper](https://proceedings.neurips.cc/paper/2017/hash/883e881bb4d22a7add958f2d6b052c9f-Abstract.html)
-2. [JMLR 2019]**Learning Representations of Persistence Barcodes ** [paper](https://jmlr.csail.mit.edu/papers/v20/18-358.html)
+2. [JMLR 2019]**Learning Representations of Persistence Barcodes** [paper](https://jmlr.csail.mit.edu/papers/v20/18-358.html)
 3. [ICML 2020*]**Graph Filtration Learning** [paper](https://arxiv.org/abs/1905.10996)
 4. [ICML 2020]**Topological Autoencoders** [paper](https://proceedings.mlr.press/v119/moor20a.html)
 5. [ICLR 2022*]**Topological Graph Neural Networks** [paper](https://openreview.net/forum?id=oxxUMeFwEHd)
