@@ -39,7 +39,7 @@ Using PH as a differentiable loss/constrain/penalty/regularizer
 
 1. [AISTATS 2019*]**A Topological Regularizer for Classifiers via Persistent Homology** [paper](https://proceedings.mlr.press/v89/chen19g.html)
 2. [NeurIPS 2019]**Topology-Preserving Deep Image Segmentation** [paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/2d95666e2649fcfc6e3af75e09f5adb9-Abstract.html)
-3. [ECCV 2020]**TopoGAN: A Topology-Aware Generative Adversarial Network** [paper]() 
+3. [ECCV 2020]**TopoGAN: A Topology-Aware Generative Adversarial Network** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf) 
 4. [ICLR 2021]**Topology-Aware Segmentation Using Discrete Morse Theory** [paper](https://openreview.net/forum?id=LGgdb4TS4Z )
 
 ### Differentiable
