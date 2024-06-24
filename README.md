@@ -49,7 +49,8 @@ Differentiable topological representation
 2. [JMLR 2019]**Learning Representations of Persistence Barcodes** [paper](https://jmlr.csail.mit.edu/papers/v20/18-358.html)
 3. [ICML 2020*]**Graph Filtration Learning** [paper](https://arxiv.org/abs/1905.10996)
 4. [ICML 2020]**Topological Autoencoders** [paper](https://proceedings.mlr.press/v119/moor20a.html)
-5. [ICLR 2022*]**Topological Graph Neural Networks** [paper](https://openreview.net/forum?id=oxxUMeFwEHd)
-6. [TAG-ML 2023]**GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning** [paper](https://arxiv.org/abs/2304.04970)
+5. [ICML 2021]**Link Prediction with Persistent Homology: An Interactive View** [paper](http://proceedings.mlr.press/v139/yan21b.html)
+6. [ICLR 2022*]**Topological Graph Neural Networks** [paper](https://openreview.net/forum?id=oxxUMeFwEHd)
+7. [TAG-ML 2023]**GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning** [paper](https://arxiv.org/abs/2304.04970)
 
 Work in progress！
